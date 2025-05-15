@@ -23,11 +23,19 @@ permalink: /talks/
 </style>
 
 <div class="jumbotron">
-### Invited talks
-{% bibliography --query @incollection[keywords ^= invited] %}
+<h3>Invited talks</h3>
+
+<ul>
+  <li>Doe, A. (2024). <em>Invited Lecture Title</em>. Keynote at International Symposium on AI.</li>
+  <li>Smith, J. (2023). <em>Another Invited Talk</em>. Guest lecture at XYZ University.</li>
+</ul>
 </div>
 
 <div class="jumbotron">
-### Regular talks
-{% bibliography --query @incollection[keywords != invited] %}
+<h3>Regular talks</h3>
+
+<ul>
+  <li>Lee, K., et al. (2022). <em>Title of Conference Talk</em>. Presented at ABC Conference.</li>
+  <li>Doe, A. (2021). <em>General Talk Title</em>. Workshop on Data Science.</li>
+</ul>
 </div>
