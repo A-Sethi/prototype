@@ -69,8 +69,8 @@ scholar:
   locale: en
 
   source: /assets/
-  bibliography: ref.bib
-  bibliography_template: bibtemplate
+  #bibliography: ref.bib
+  #bibliography_template: bibtemplate
   sort_by: year, month
   order: descending
 
@@ -83,8 +83,8 @@ scholar:
 
   query: "@*"
 
-  bibliography_list_attributes:
-    reversed: "reversed"
+  #bibliography_list_attributes:
+    #reversed: "reversed"
 
 exclude:
   - Gemfile
