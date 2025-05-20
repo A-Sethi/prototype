@@ -1,17 +1,18 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
+- name: Dr. Dibyendu Mondal
+  photo: mondal.jpg
+  info: Institute of Plant Genetics, Polish Academy of Sciences
+  email: dmon@igr.poznan.pl
   github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  researchgate: https://www.researchgate.net/profile/Dibyendu-Mondal-8
+  scholar: https://scholar.google.co.in/citations?user=-uuw1YsAAAAJ&hl=en
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "Postdoctoral research (2015-2017), University of Aveiro, Portugal",
+      "PhD, Chemical Science (2011-2015), CSIR-CSMCRI",
+      "MSc, Chemistry (2009-2011), IIT-Guwahati",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["Polish Academy of Sciences"]
