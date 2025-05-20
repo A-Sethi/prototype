@@ -61,18 +61,18 @@ kramdown:
 
 # plugins: ["jekyll/scholar"]
 
-scholar:
-  last_name: Doe
-  first_name: [John]
+#scholar:
+  #last_name: Doe
+  #first_name: [John]
 
-  style: citesty
-  locale: en
+  #style: citesty
+  #locale: en
 
-  source: /assets/
+  #source: /assets/
   #bibliography: ref.bib
   #bibliography_template: bibtemplate
-  sort_by: year, month
-  order: descending
+  #sort_by: year, month
+  #order: descending
 
   replace_strings: true
   join_strings: true
