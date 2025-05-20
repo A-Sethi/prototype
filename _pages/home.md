@@ -7,7 +7,10 @@ permalink: /
 
 ### Welcome to Mondal Lab!
 
-The GreenMatter Lab, led by Dr. Dibyendu Mondal, explores sustainable strategies for the value addition of bioresources. The group is passionate about designing bioinspired materials and green solvents for cutting-edge applications in bioenergy, biocatalysis, protein packaging and water purification. Rooted in the principles of green chemistry, the lab pioneers eco-friendly extraction and purification processes and develops smart nanocomposites for targeted uses. 
+<div style="text-align: justify">
+The GreenMatter Lab (Green Materials & Technologies for a Sustainable Future), led by Dr. Dibyendu Mondal, explores sustainable strategies for the value addition of bioresources. The group is passionate about designing bioinspired materials and green solvents for cutting-edge applications in bioenergy, biocatalysis, protein packaging and water purification. Rooted in the principles of green chemistry, the lab pioneers eco-friendly extraction and purification processes and develops smart nanocomposites for targeted uses. 
+
+</div>
 
 <div class="container">
 <div class="row">
