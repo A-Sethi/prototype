@@ -1,6 +1,5 @@
-- date: 1 January, 1941
-  headline: "Example news here"
-
-- date: 1 January, 1940
-  headline: "Example news here"
+- date: 23 December, 2024
+  headline: "In the latest paper in <a href='https://doi.org/10.1039/D4CC05803H' target='_blank'>Chem Comm</a> we show that a combination of DNA and ionic liquid significantly increases the stability and activity of HRP and achieves a 4.8-fold higher peroxidase activity than PBS buffer."
+- date: 1 September, 2021
+  headline: "Dibyendu joins Institute of Plant Genetics as ERA Chair."
 
